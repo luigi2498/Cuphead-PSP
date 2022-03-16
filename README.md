@@ -22,7 +22,7 @@ Just for feedback I'll upload a couple of .txt with the code of the most importa
 # Demostration and more information.
 In this section you could see some images about the project, like the gameplay, some old tests and all that kind of stuff.<br>
 Please remember, if you want to see the gameplay or just more information about the project, you could go to my **[GameJolt](https://gamejolt.com/@luigi2498)** profile and take a deep look, or even on my **[Youtube Channel](https://youtu.be/bnPA69xp0BE)**.<br>
-**And then, don't forget to gave credits if you use this project, best regards and am so glad if you came to the end of this readme (its my first public repo on GitHub c:)**<br>
+**And then, don't forget to gave credits if you use this project, best regards and am so glad if you came to the end of this readme (its my first public repo on GitHub)**<br>
 ![captura1](https://user-images.githubusercontent.com/62407022/158500543-442dfcc2-82bf-4d12-a498-7f3782b56fd5.png)
 ![captura2](https://user-images.githubusercontent.com/62407022/158500560-2ec5b548-722a-4edc-ac0f-040d286fcbf0.png)
 ![captura4](https://user-images.githubusercontent.com/62407022/158500606-d5a19646-d67f-48c8-88cc-56d031069400.png)
