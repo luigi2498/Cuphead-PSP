@@ -15,9 +15,9 @@ By the way, I could upload the .gmk file for anyone who wants to try to fix some
 Just for feedback I'll upload a couple of .txt with the code of the most important things, like the finite states machine of the main character and also for the enemies.
 
 # Requirements.
--A PSP Console (doesn't matter the model, the game works on 1000-3000 models, I don't know certainly it it works on a PSP GO or PSP Street, you could even test it on PPSSPP Emulator).<br>
--Game Maker 8 (the IDE).<br>
--Chovy GM v0.0.3 (kind of a compiler that converts the .exe file on a playable .iso): https://github.com/KuromeSan/chovy-gm/releases/<br>
+* A PSP Console (doesn't matter the model, the game works on 1000-3000 models, I don't know certainly it it works on a PSP GO or PSP Street, you could even test it on PPSSPP Emulator).<br>
+* Game Maker 8 (the IDE).<br>
+* Chovy GM v0.0.3 (kind of a compiler that converts the .exe file on a playable .iso): https://github.com/KuromeSan/chovy-gm/releases/<br>
 
 # Demostration and more information.
 In this section you could see some images about the project, like the gameplay, some old tests and all that kind of stuff.<br>
