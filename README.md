@@ -1,5 +1,5 @@
 # Cuphead PSP Port.
-A little try to port a reduced/lite version of Cuphead to this portable retro console (wrote on Game Maker 8).
+A little try to port a reduced/lite version of Cuphead to this portable retro console (wrote on GML using Game Maker 8).
 
 # Summary.
 This adaptation (port) was made just for fun and for a research work on an old Videogame Programming Enviroment, (**THIS IS COMPLETELY FREE AND IS NOT AN OFFICIAL WORK FROM THE RIGHTS OWNERS, PLEASE SUPPORT DE ORIGINAL AUTHORS PURCHASING A COPY OF THE ORIGINAL GAME - STUDIO MDHR**).<br>
