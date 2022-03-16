@@ -9,7 +9,7 @@ Buy Cuphead on Steam: https://store.steampowered.com/app/268910/Cuphead/
 The main theme of this project is trying to get a playable version of Cuphead for this retro console called PSP, as you know, that console is now a retro console made on 2010, and some people (like me) still giving support creating new projects just for nostalgia and like a "What if 'X' game were made for a PSP...?"
 
 # Code details.
-The latest version available at is an Alpha 0.0.6 (of course with a pair of bugs that are not really annoying for the gameplay experience) that you could get and test it on my GameJolt forum: https://gamejolt.com/@luigi2498/games<br>
+The latest version available at is an Alpha 0.6 (of course with a pair of bugs that are not really annoying for the gameplay experience) that you could get and test it on my GameJolt forum: https://gamejolt.com/@luigi2498/games<br>
 If you know a little about Game Maker 8 (maybe an obsolet version), this works by a .gmk file (a file that contains all the objects, rooms, sprites, textures, images, sounds, and other stuff), so thats why I can't put all the files that make up this project, like other repos, for example, wrote on a Programming Language like Python, C, C++ or Java, and so on.<br>
 By the way, I could upload the .gmk file for anyone who wants to try to fix some bugs or try to continue the game (if you fix something, please let me know on a message, and we could test it or even add you as a collaborator).<br>
 Just for feedback I'll upload a couple of .txt with the code of the most important things, like the finite states machine of the main character and also for the enemies.
