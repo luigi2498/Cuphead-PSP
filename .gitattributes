@@ -1,3 +1,2 @@
-*.gml linguist-detectable=true
-*.gmk linguist-detectable=true
-*.md linguist-detectable=true
+*.gml linguist-language=Game Maker Language
+*.gmk linguist-language=Game Maker Language
