@@ -22,5 +22,7 @@ By the way, I could upload the .gmk file for anyone who wants to try to fix some
 In this section you could see some images about the project, like the gameplay, some old tests and all that kind of stuff.<br>
 Please remember, if you want to see the gameplay or just more information about the project, you could go to my **[GameJolt](https://gamejolt.com/@luigi2498)** profile and take a deep look, or even on my **[Youtube Channel](https://youtu.be/bnPA69xp0BE)**.<br>
 **And then, don't forget to give credits if you use this project, best regards and I'm so glad if you came to the end of this readme (its my first public repo on GitHub)**<br>
+![ss13](https://user-images.githubusercontent.com/62407022/188517831-4ae655fb-0c93-4bc9-add7-e834a3434d14.PNG)
 ![captura1](https://user-images.githubusercontent.com/62407022/158500543-442dfcc2-82bf-4d12-a498-7f3782b56fd5.png)
-![captura2](https://user-images.githubusercontent.com/62407022/158500560-2ec5b548-722a-4edc-ac0f-040d286fcbf0.png)
+![ss3](https://user-images.githubusercontent.com/62407022/188517807-071d15b6-d4ea-44f9-aabc-0d80f1d26d4d.PNG)
+![ss4](https://user-images.githubusercontent.com/62407022/188517813-97632201-0840-4ecc-97a0-1b9da770d857.PNG)
