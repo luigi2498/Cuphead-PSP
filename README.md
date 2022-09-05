@@ -9,10 +9,9 @@ Buy Cuphead on Steam: https://store.steampowered.com/app/268910/Cuphead/
 The main theme of this project is trying to get a playable version of Cuphead for this retro console called PSP, as you know, that console is now a retro console made on 2010, and some people (like me) are still giving support creating new projects just for nostalgia and the idea of "What if 'X' game were made for a PSP...?"
 
 # Code details.
-The latest version available is an Alpha 0.6 (of course with a couple of bugs that are not really annoying for the gameplay experience) that you could get and test it on my GameJolt forum: https://gamejolt.com/@luigi2498/games<br>
+The latest version available is an Alpha 0.8.2 (with a lot of fixes in comparison with the past alpha version 0.6) that you could get and test it on my GameJolt forum: https://gamejolt.com/@luigi2498/games<br>
 If you know a little bit about Game Maker 8 (maybe an obsolete version), this works by a .gmk file (a file that contains all the objects, rooms, sprites, textures, images, sounds, and other stuff), so that's why I can't put all the files that make up this project, like other repos, for example, wrote on a Programming Language like Python, C, C++ or Java, and so on.<br>
-By the way, I could upload the .gmk file for anyone who wants to try to fix some bugs or try to continue the game (if you fix something, please let me know in a message, and we could test it or even add you as a collaborator).<br>
-Just for feedback I'll upload a couple of .txt with the code of the most important things, like the finite states machine of the main character and also for the enemies.
+By the way, I could upload the .gmk file for anyone who wants to try to fix some bugs or try to continue the game (if you fix or add something, please let me know in a message, and we could test it or even add you as a collaborator).<br>
 
 # Requirements.
 * A PSP Console (doesn't matter the model, the game works on 1000-3000 models, I don't know if it works on a PSP GO or PSP Street, you could even test it on a PPSSPP Emulator).<br>
