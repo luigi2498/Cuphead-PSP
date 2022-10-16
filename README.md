@@ -1,4 +1,4 @@
-# Cuphead PSP Port.
+# Cuphead PSP.
 An attempt to port a reduced/lite version of Cuphead to this portable retro console (wrote on GML using Game Maker 8).
 
 # Summary.
